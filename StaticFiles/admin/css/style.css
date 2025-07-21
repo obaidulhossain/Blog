@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.layout {
+    display: flex;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+}

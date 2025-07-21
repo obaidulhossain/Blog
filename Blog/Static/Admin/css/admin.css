@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.layout {
+    display: flex;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+}
